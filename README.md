@@ -1,6 +1,10 @@
 # Hi there! 👋 I'm Cole Pearson
 
-I'm a passionate developer skilled in **JavaScript**, **Python**, and **Node.js**. Currently, I'm exploring **TypeScript**, **C**, and focusing on **Discord.js v14** development. Always learning and working on projects that challenge my skills! 🚀
+**Age**: 19 | **Location**: 🌎 Anywhere in the code universe!
+
+I'm a self-taught developer with a passion for crafting innovative solutions using **JavaScript**, **Python**, and **Node.js**. Currently, I'm diving deep into **Discord.js v14**, leveling up my skills in **TypeScript**, and exploring **C** to broaden my knowledge base. 💻
+
+I enjoy creating bots, automating processes, and taking on challenging projects that push me to learn more every day. When I'm not coding, I'm likely experimenting with new tech or staying up to date with the latest industry trends!
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
