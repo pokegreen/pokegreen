@@ -37,7 +37,7 @@ I'm a passionate developer skilled in **JavaScript**, **Python**, and **Node.js*
 
 ## 📈 GitHub Stats
 
-![Cole Pearson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cole-pearson&show_icons=true&theme=radical)
+![Cole Pearson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pokegreen&show_icons=true&theme=radical)
 
 ---
 
@@ -49,7 +49,7 @@ I'm a passionate developer skilled in **JavaScript**, **Python**, and **Node.js*
 ---
 
 ## 📫 Let's Connect
-- **Email**: [colepearson@example.com](mailto:colepearson619@gmail.com)
+- **Email**: [colepearson619@gmail.com](mailto:colepearson619@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](#)
 - **Website**: [Soon](#)
 
