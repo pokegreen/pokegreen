@@ -49,9 +49,9 @@ I'm a passionate developer skilled in **JavaScript**, **Python**, and **Node.js*
 ---
 
 ## 📫 Let's Connect
-- **Email**: [colepearson@example.com](mailto:colepearson@example.com)
+- **Email**: [colepearson@example.com](mailto:colepearson619@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](#)
-- **Website**: [Your Website](#)
+- **Website**: [Soon](#)
 
 ---
 
