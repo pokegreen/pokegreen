@@ -23,9 +23,9 @@ Here you'll find a range of my work in machine learning and data science.
 ---
 
 ## 🏆 2025 Goals
-- [ ] Successfully lead the launch of a new ML-powered product feature.
+- [x] Successfully lead the launch of a new ML-powered product feature.
 - [ ] Publish a technical blog post about model optimization or a new technology.
-- [ ] Contribute to an open-source machine learning library.
+- [x] Contribute to an open-source machine learning library.
 - [ ] Earn a professional certification in a cloud machine learning service (e.g., AWS, GCP).
 
 ---
