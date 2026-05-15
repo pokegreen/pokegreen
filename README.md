@@ -189,20 +189,7 @@ class ColePearson:
 | ✅ | **Publish open-source ML tooling** — a reusable library or template repo that others actually use |
 | 🔲 | **Master distributed training** — multi-GPU / multi-node training on large models with DeepSpeed or FSDP |
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cole-pearson&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0b1e&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cole-pearson&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0b1e&title_color=a78bfa&text_color=c4b5fd" />
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=cole-pearson&theme=midnight-purple&hide_border=true&background=0d0b1e&stroke=7c3aed&ring=a78bfa&fire=c4b5fd&currStreakLabel=a78bfa" />
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
