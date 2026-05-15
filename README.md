@@ -196,7 +196,7 @@ class ColePearson:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-coleeverettpearson@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b)](mailto:coleeverettpearson@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cole_Pearson-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b)](https://linkedin.com/in/cole-pearson)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cole_Pearson-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b)](.....)
 [![GitHub](https://img.shields.io/badge/GitHub-cole--pearson-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b)](https://github.com/cole-pearson)
 
 </div>
