@@ -180,13 +180,13 @@ class ColePearson:
 |:------:|------|
 | ✅ | **Ship a production ML feature end-to-end** — own the full lifecycle: ideation, training, deployment, monitoring |
 | ✅ | **Contribute to an open-source ML library** — merged PRs in a recognised OSS project |
-| 🔲 | **Publish a technical deep-dive** — blog post or paper on model optimisation, LLM fine-tuning, or MLOps patterns |
-| 🔲 | **Earn AWS ML Specialty or GCP Professional ML Engineer certification** |
+| ✅ | **Publish a technical deep-dive** — blog post or paper on model optimisation, LLM fine-tuning, or MLOps patterns |
+| ✅ | **Earn AWS ML Specialty or GCP Professional ML Engineer certification** |
 | 🔲 | **Build and deploy an autonomous AI agent** — multi-step reasoning, tool use, real-world task completion |
 | 🔲 | **Lead a data team initiative at scale** — mentor junior engineers, define ML standards and best practices |
 | 🔲 | **Architect a real-time ML inference system** — streaming data, sub-50ms latency SLA, full observability |
-| 🔲 | **Design a full-stack AI application** — from data ingestion layer to React/Next.js frontend, prod-deployed |
-| 🔲 | **Publish open-source ML tooling** — a reusable library or template repo that others actually use |
+| ✅ | **Design a full-stack AI application** — from data ingestion layer to React/Next.js frontend, prod-deployed |
+| ✅ | **Publish open-source ML tooling** — a reusable library or template repo that others actually use |
 | 🔲 | **Master distributed training** — multi-GPU / multi-node training on large models with DeepSpeed or FSDP |
 
 ---
